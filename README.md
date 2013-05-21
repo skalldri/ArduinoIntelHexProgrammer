@@ -1,0 +1,1 @@
+This is the Arduino firmware for my intel hex programmer. It's reasonably slow, but it does the job. I could probably make it faster by reducing the message passing or doing a bulk transfer. Currently the hex file is done line by line.
